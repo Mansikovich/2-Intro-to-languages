@@ -1,0 +1,15 @@
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.csproj.AssemblyReference.cache
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.AssemblyInfoInputs.cache
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.AssemblyInfo.cs
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.csproj.CoreCompileInputs.cache
+C:\Users\Мансур\Desktop\path\bin\Debug\net6.0\path.exe
+C:\Users\Мансур\Desktop\path\bin\Debug\net6.0\path.deps.json
+C:\Users\Мансур\Desktop\path\bin\Debug\net6.0\path.runtimeconfig.json
+C:\Users\Мансур\Desktop\path\bin\Debug\net6.0\path.dll
+C:\Users\Мансур\Desktop\path\bin\Debug\net6.0\path.pdb
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.dll
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\refint\path.dll
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.pdb
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\path.genruntimeconfig.cache
+C:\Users\Мансур\Desktop\path\obj\Debug\net6.0\ref\path.dll
